@@ -1,0 +1,8 @@
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\TestsProyectos\bin\Debug\net9.0\.msCoverageSourceRootsMapping_TestsProyectos
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\TestsProyectos\bin\Debug\net9.0\CoverletSourceRootsMapping_TestsProyectos
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\TestsProyectos\obj\Debug\net9.0\TestsProyectos.csproj.AssemblyReference.cache
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\TestsProyectos\obj\Debug\net9.0\TestsProyectos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\TestsProyectos\obj\Debug\net9.0\TestsProyectos.AssemblyInfoInputs.cache
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\TestsProyectos\obj\Debug\net9.0\TestsProyectos.AssemblyInfo.cs
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\TestsProyectos\obj\Debug\net9.0\TestsProyectos.csproj.CoreCompileInputs.cache
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\TestsProyectos\obj\Debug\net9.0\TestsProyectos.sourcelink.json

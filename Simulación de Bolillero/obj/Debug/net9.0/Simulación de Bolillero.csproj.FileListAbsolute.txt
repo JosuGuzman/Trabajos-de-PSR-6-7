@@ -1,0 +1,12 @@
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\obj\Debug\net9.0\Simulación de Bolillero.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\obj\Debug\net9.0\Simulación de Bolillero.AssemblyInfoInputs.cache
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\obj\Debug\net9.0\Simulación de Bolillero.AssemblyInfo.cs
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\obj\Debug\net9.0\Simulación de Bolillero.csproj.CoreCompileInputs.cache
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\obj\Debug\net9.0\Simulación de Bolillero.sourcelink.json
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\bin\Debug\net9.0\Simulación de Bolillero.deps.json
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\bin\Debug\net9.0\Simulación de Bolillero.dll
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\bin\Debug\net9.0\Simulación de Bolillero.pdb
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\obj\Debug\net9.0\Simulación de Bolillero.dll
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\obj\Debug\net9.0\refint\Simulación de Bolillero.dll
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\obj\Debug\net9.0\Simulación de Bolillero.pdb
+c:\Users\Lab15-PC01\Documents\GitHub\Trabajos-de-PSR-6-7\Simulación de Bolillero\obj\Debug\net9.0\ref\Simulación de Bolillero.dll

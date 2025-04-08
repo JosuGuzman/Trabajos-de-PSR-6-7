@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Simulación de Bolillero")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TestsProyectos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5439582b83340b08f1a59b162bc2ad30daacdcd0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Simulación de Bolillero")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Simulación de Bolillero")]
+[assembly: System.Reflection.AssemblyProductAttribute("TestsProyectos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TestsProyectos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
